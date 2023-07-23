@@ -8,7 +8,6 @@ Currently the dataset contains the files from the Kaggle TBX11K, Kaggle Qatar, a
   - 6600 healthy from TBX11K
   - 1800 sick non-TB from TBX11K
   - 406 normal from Qatar (NIH)
-  - 3094 normal from Qatar (RSNA)
   - 52 TB-negative from DA (TBXpredict)
 
 - Tuberculosis:
@@ -17,7 +16,7 @@ Currently the dataset contains the files from the Kaggle TBX11K, Kaggle Qatar, a
   - 800 TB from TBX11K
   - 52 TB from DA (TBXpredict)
 
-The rough estimate so far is 1543 TB images and 11059 non-TB images.
+The rough estimate so far is 1491 TB images and 7507 non-TB images.
 
 The link to the dataset (TBX11K, NIH, RSNA) is the following URL:  https://drive.google.com/drive/folders/1FTOEkBmq7kIpklYlEMKm8g8VwxQFhvP5?usp=drive_link
 
