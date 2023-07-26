@@ -30,8 +30,31 @@ The link to the dataset (TBXpredict): https://drive.google.com/drive/folders/1Hh
 tuberculosis-detection-model currently has the following directory structure:
 
   ```
-	├── Tuberculosis 
-	└── Non-Tuberculosis
+  tuberculosis-detection-model
+  │
+	├── augmented (used Albumentations for image augmentation of minority class)
+	│   ├── Augmented TB (images created through augmentation pipeline)
+	│   ├── Non-Tuberculosis (link to folder in original)
+  │   ├── output (training and validation datasets with augmented data)
+  │   │   ├── train
+  │   │   │   ├── Non-Tuberculosis
+  │   │   │   └── Tuberculosis 
+  │   │   └── val
+  │   │       ├── Non-Tuberculosis
+  │   │       └── Tuberculosis
+  │   └── Tuberculosis (link to folder in original)
+  │
+  └── original 
+      ├── Non-Tuberculosis (original non-TB set)
+      ├── output (training and validation datasets without augmentation)
+      │   ├── train
+      │   │   ├── Non-Tuberculosis
+      │   │   └── Tuberculosis 
+      │   └── val
+      │       ├── Non-Tuberculosis
+      │       └── Tuberculosis     
+      └── Tuberculosis (original TB set)
+      
   ```
 
 TBXpredict (DA) currently has the following directory structure:
