@@ -5,3 +5,6 @@ Main Dataset from Kaggle: https://www.kaggle.com/datasets/adityamahimkar/iqothnc
 
 Optional Dataset from Kaggle: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 - Dataset directory name is Chest CT-Scan images Dataset
+
+CT Scan images for testing
+- CT-Scan Images for testing
