@@ -14,3 +14,6 @@
 
 ## Notebook to evaluate saved models
 - evaluate_models.ipynb
+
+  ## Notebook with a CNN and a DenseNet121 models on IQ_OTHNCCD dataset
+  - lung_cancer_CNN_Densenet121.ipynb
