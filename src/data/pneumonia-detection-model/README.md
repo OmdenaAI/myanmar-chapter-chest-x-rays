@@ -22,7 +22,7 @@ Mendeley: https://drive.google.com/file/d/1a2mW94hFRjXP3UaAApD4XF2XO_Cxvcur/view
 
 NIH CXR: https://drive.google.com/file/d/12LIUfjcTBhDyYhmxWUpZLRKXtfvTOZQ6/view?usp=drive_link
 
-RSNA: <to be uploaded in a few minutes.>
+RSNA: https://drive.google.com/file/d/1cMptR9UPgnVd3eAJO-zB_EXriizrhvgH/view?usp=drive_link
 
 Each of the datasets have a directory of:
 
