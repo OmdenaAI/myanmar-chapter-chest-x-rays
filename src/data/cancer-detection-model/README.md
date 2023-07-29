@@ -8,3 +8,12 @@ Optional Dataset from Kaggle: https://www.kaggle.com/datasets/mohamedhanyyy/ches
 
 CT Scan images for testing
 - CT-Scan Images for testing
+
+
+Additional Datasets:
+
+- https://wiki.cancerimagingarchive.net/display/Public/LUNGx+SPIE-AAPM-NCI+Lung+Nodule+Classification+Challenge
+
+- https://www.kaggle.com/competitions/data-science-bowl-2017/data
+
+- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
