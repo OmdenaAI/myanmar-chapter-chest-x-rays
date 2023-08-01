@@ -1,22 +1,12 @@
-# Visualization Scripts and Notebooks
+# Visualization Folder
 
-## Notebook for IQ-OTHNCCD chest cancer dataset
-- lung-cancer-prediction-on-IQ-OTHNCCD-dataset.ipynb
+## Folder for cancer model
+- cancer-detection-model
 
-## Notebook for Merged IQ-OTHNCCD chest cancer dataset
-- lung-cancer-prediction-on-MERGED IQ-OTHNCCD-dataset.ipynb
+## Folder for pneumonia model
+- Pneumonia_Detection_Model
 
-## Notebook to merge datasets
-- merge_datasets.ipynb
+## Folder for tuberculosis
+- tuberculosis-detection-model
 
-## Notebook for RESENT50V2 model
-- lung-cancer-prediction-on-MERGED IQ-OTHNCCD-dataset-RESNET50V2.ipynb
 
-## Notebook to evaluate saved models
-- evaluate_models.ipynb
-
-  ## Notebook with a CNN and a DenseNet121 models on IQ_OTHNCCD dataset
-  - lung_cancer_CNN_Densenet121.ipynb
-
-  ## Basic model using MERGED-REVISED The IQ-OTHNCCD lung cancer dataset
-  - lung-cancer-prediction-on-IQ-OTHNCCD-dataset_model4.ipynb custom model with callbacks
