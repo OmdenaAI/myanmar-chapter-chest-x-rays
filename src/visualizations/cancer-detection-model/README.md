@@ -20,3 +20,6 @@
 
   ## Basic model using MERGED-REVISED The IQ-OTHNCCD lung cancer dataset
   - lung-cancer-prediction-on-IQ-OTHNCCD-dataset_model4.ipynb custom model with callbacks
+ 
+  ## A model motivated by Resnet architecture on IQ-OTHNCCD dataset
+  - lung_cancer_mini_resnet.ipynb
