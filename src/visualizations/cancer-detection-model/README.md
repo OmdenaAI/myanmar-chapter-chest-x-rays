@@ -23,3 +23,6 @@
  
   ## A model motivated by Resnet architecture on IQ-OTHNCCD dataset
   - lung_cancer_mini_resnet.ipynb
+
+  ## Convert luna16 dataset to jpg images
+  - mhd_to_jpg.ipynb
