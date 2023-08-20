@@ -1,9 +1,25 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+# Identifying Diseases in Chest X-Rays & COVID-19 Detection
 
+## The Problem 
+The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
 
-# [Chapter Challenge Name]
+Our local community faces the burden of inadequate healthcare infrastructure and limited resources, which further amplifies the impact of these challenges. Early detection of COVID-19 and other chest diseases is crucial for effective treatment and preventing the spread of the virus. By deploying an AI-powered solution capable of accurately analyzing chest X-rays and identifying diseases, we can make a significant positive impact on the healthcare landscape of Myanmar, Asian countries, and people around the world.
+ 
+The deep learning model we develop will enable healthcare providers, including general practitioners and healthcare workers in remote areas, to quickly identify diseases in chest X-rays. By reducing the dependence on scarce human resources and improving the efficiency of diagnoses, our solution will enhance the overall quality of healthcare services. Moreover, the availability of a reliable and accessible diagnostic tool will empower medical professionals to make informed decisions and provide timely treatments, potentially saving lives and mitigating the spread of diseases within the community. **The productivity of our product will increase as much as the support we receive**, as our model is greatly dependent on the support of data.
+ 
+Through the development of a web app or mobile app, we aim to make this solution widely accessible beyond our local community, reaching healthcare providers globally. By democratizing access to advanced diagnostic capabilities, we strive to contribute to the global fight against COVID-19 and other chest diseases, fostering a healthier future for individuals worldwide.
 
+## The Project Goals
+Conduct a comprehensive literature review to understand the existing research and methodologies related to chest X-ray analysis, disease detection, and COVID-19 diagnosis using deep learning algorithms. Refine project goals based on the insights gained from the literature review.
+- Collect a diverse and representative dataset of chest X-ray images, including COVID-19 cases and other chest diseases, ensuring the availability of labeled data for training and evaluation purposes.
+- Perform exploratory data analysis (EDA) to gain insights into the dataset, understand data distribution, identify potential biases, and inform data preprocessing strategies.
+- Preprocess the collected data, including tasks such as image resizing, normalization, augmentation, and handling class imbalances, to ensure the data is suitable for training deep learning models.
+- Discuss and decide on the most appropriate deep learning algorithm or architecture to develop a robust and accurate disease detection model. Consider factors such as model complexity, interpretability, computational requirements, and performance metrics.
+- Implement and train the chosen deep learning model using the preprocessed data. Optimize the model's hyperparameters and conduct rigorous evaluations to assess its performance, including measures such as accuracy, precision, recall, and F1-score.
+- Develop a user-friendly web app or mobile app that integrates the trained deep learning model. The application should provide an intuitive interface for uploading chest X-ray images and obtaining disease detection results in real-time.
+- Deploy the developed web app or mobile app to a hosting environment, ensuring scalability, security, and availability for users worldwide. Conduct thorough testing to verify the functionality and performance of the deployed solution.
+- Provide a comprehensive project overview, documenting the entire development process, including methodologies, challenges faced, and key findings. Summarize the achieved results, showcasing the accuracy and impact of the deep learning model in detecting chest diseases and COVID-19.
+- Deliver a final presentation highlighting the project's goals, methodology, key findings, and the potential impact on healthcare in the local community and beyond. Engage in knowledge sharing and open discussion to inspire and educate others about the benefits of AI-driven healthcare solutions.
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
