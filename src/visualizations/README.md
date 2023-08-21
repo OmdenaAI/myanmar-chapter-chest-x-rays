@@ -1,10 +1,12 @@
-# Visualization Scripts and Notebooks
+# Visualization Folder
 
-## Notebook for IQ-OTHNCCD chest cancer dataset
-- lung-cancer-prediction-on-IQ-OTHNCCD-dataset.ipynb
+## Folder for cancer model
+- cancer-detection-model
 
-## Notebook for Merged IQ-OTHNCCD chest cancer dataset
-- lung-cancer-prediction-on-MERGED IQ-OTHNCCD-dataset.ipynb
+## Folder for pneumonia model
+- Pneumonia_Detection_Model
 
-## Notebnok to merge datasets
-- merge_datasets.ipynb
+## Folder for tuberculosis
+- tuberculosis-detection-model
+
+
