@@ -21,6 +21,9 @@ To start, run the following command in your terminal:
 streamlit run streamlit_app.py
 ```
 
+## Note
+If you wish to install the cancer model locally, please visit [this link](https://drive.google.com/file/d/12yYzHkCih4UTQZaNv3ElKcJwfgt1Is8S/view?usp=sharing)
+
 ## Acknowledgments
 
 I would like to acknowledge Omdena's Myanmar Chapter for providing the opportunity to work on this project. I also extend my gratitude to all the contributors who participated in developing Diseases Identifying Chest X-Rays Detection System.
