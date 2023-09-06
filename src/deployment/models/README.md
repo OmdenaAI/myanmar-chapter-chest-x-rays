@@ -1,7 +1,5 @@
 # Identifying Diseases in Chest X-Rays & COVID-19 Detection
 
-![banner](assets/banner.png)
-
 This project is the final streamlit web application developed for Omdena Myanmar Chapter.
 
 ## Requirements
