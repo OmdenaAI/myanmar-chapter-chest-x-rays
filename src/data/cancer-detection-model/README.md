@@ -33,9 +33,9 @@ CT Scan images for testing
 
 - https://paperswithcode.com/dataset/lidc-idri
 
-
 MERGED-REVISED The IQ-OTHNCCD lung cancer dataset
 - Merge of The IQ-OTHNCCD lung cancer dataset and the train and valid directories in Chest CT-Scan images Dataset
 
 TEST lung cancer dataset
 - Train dataset from Chest CT-Scan images Dataset
+
