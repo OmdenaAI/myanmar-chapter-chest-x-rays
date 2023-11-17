@@ -1,4 +1,4 @@
-# Identifying Diseases in Chest X-Rays & COVID-19 Detection
+# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
 
 ## The Problem 
 The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
@@ -28,7 +28,8 @@ Conduct a comprehensive literature review to understand the existing research an
     - Create a README.md with a table containing information table about all contributions for the task.
 - If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
-- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
+- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion.
+  
 
 ## Project Structure
 
@@ -55,6 +56,7 @@ Conduct a comprehensive literature review to understand the existing research an
         │
         └── results        <- Folder to store Final analysis and modelling results and code.
 --------
+
 
 ## Folder Overview
 
