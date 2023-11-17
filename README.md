@@ -28,7 +28,8 @@ Conduct a comprehensive literature review to understand the existing research an
     - Create a README.md with a table containing information table about all contributions for the task.
 - If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
-- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
+- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion.
+  
 
 ## Project Structure
 
