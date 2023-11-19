@@ -1,3 +1,3 @@
 # Results
 
-to be Released after research phase
+to be Released after research phase.
