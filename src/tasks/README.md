@@ -19,5 +19,11 @@ Note : Please Follow the below guidelines to create task folders
 
 ### Task Table
 
+| Task No| Task Name | Details |
+|-|-|-|
+|1|         |         |
+|2|         |         |
+|3|         |         |
+|4|         |         |
+|5| Rationale| |
 
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|

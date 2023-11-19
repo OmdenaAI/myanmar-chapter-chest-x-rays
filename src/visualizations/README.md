@@ -1,4 +1,13 @@
-# Visualization Scripts and Notebooks
+# Visualization Folder
 
-## Notebook for IQ-OTHNCCD chest cancer dataset
-- lung-cancer-prediction-on-IQ-OTHNCCD-dataset.ipynb
+This is where you will see most of our contributers' efforts.
+
+## Folder for cancer model
+- cancer-detection-model
+
+## Folder for pneumonia model
+- Pneumonia_Detection_Model
+
+## Folder for tuberculosis
+- tuberculosis-detection-model
+

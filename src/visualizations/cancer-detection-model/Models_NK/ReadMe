@@ -1,0 +1,3 @@
+I created 2 models namely:
+1. Basic CNN with SMOTE, CNN with class weights
+2. CNN with data augmentation alongwith class weights
