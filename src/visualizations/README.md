@@ -11,4 +11,3 @@ This is where you will see most of our contributers' efforts.
 ## Folder for tuberculosis
 - tuberculosis-detection-model
 
-
