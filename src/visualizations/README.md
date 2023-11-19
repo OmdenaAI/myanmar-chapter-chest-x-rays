@@ -1,5 +1,7 @@
 # Visualization Folder
 
+This is where you will see most of our contributers' efforts.
+
 ## Folder for cancer model
 - cancer-detection-model
 
