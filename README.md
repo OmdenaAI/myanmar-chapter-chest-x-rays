@@ -1,4 +1,4 @@
-# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans 
+# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
 
 ## The Problem 
 The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
