@@ -1,4 +1,4 @@
-# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
+# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans 
 
 ## The Problem 
 The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
@@ -57,7 +57,6 @@ Conduct a comprehensive literature review to understand the existing research an
         └── results        <- Folder to store Final analysis and modelling results and code.
 --------
 
-
 ## Folder Overview
 
 - Original          - Folder Containing old/completed Omdena challenge code.
@@ -72,5 +71,4 @@ Conduct a comprehensive literature review to understand the existing research an
   - Update the [task-table](./src/tasks/README.md#task-table) whenever a task is created and explain the purpose and goals of the task to others.
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
-
 
