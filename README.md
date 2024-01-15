@@ -1,4 +1,3 @@
-
 # Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
 
 ## The Problem 
