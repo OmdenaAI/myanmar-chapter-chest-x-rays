@@ -9,3 +9,4 @@
   - Identifying Medical Diagnoses and TreatableDiseases by Image-Based Deep Learning (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang).pdf
   - Long-Tailed Classification of Thorax Diseases onChest X-Ray A New Benchmark Study.pdf
   - RSNA Pneumonia Detection Challenge Acknowledgements.pdf
+
