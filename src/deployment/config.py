@@ -1,4 +1,5 @@
 
+
 PROJECT_BACKGROUND = """<h1>Project background</h1><br><p>In recent years, the world has witnessed the devastating impact of the COVID-19 pandemic, 
     which has caused significant loss of life and economic disruptions across nations. As one of the most effective 
     tools for identifying COVID-19, chest X-rays have played a crucial role in diagnosing and monitoring the 
