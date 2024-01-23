@@ -52,3 +52,4 @@ PROJECT_PROBLEM = f"""<h2>The Problem</h2> <p>The problem we aim to solve throug
     democratizing access to advanced diagnostic capabilities, we strive to contribute to the global fight against
     COVID-19 and other chest diseases, fostering a healthier future for individuals worldwide.<br>
 """
+
