@@ -1,6 +1,3 @@
-
-
-
 # Reports
 
 Demo video of our first deployment: 
