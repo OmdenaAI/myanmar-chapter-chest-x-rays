@@ -25,5 +25,5 @@ Note : Please Follow the below guidelines to create task folders
 |2|         |         |
 |3|         |         |
 |4|         |         |
-|5| Rationale| |
+|5|         |         |
 
