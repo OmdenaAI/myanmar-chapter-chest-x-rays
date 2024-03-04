@@ -7,7 +7,7 @@ For each task folder, there is a subset folder for each of the groups:
 |1|Data Collection|         |
 |2|EDA and Data Preprocessing|         |
 |3|Model Selection and Training|         |
-|4|         |         |
+|4|    Deployment     |         |
 # Task Folder Details
 
 Note : Please Follow the below guidelines to create task folders
@@ -25,5 +25,5 @@ Note : Please Follow the below guidelines to create task folders
 |2|         |         |
 |3|         |         |
 |4|         |         |
-|5| Rationale| |
+|5|         |         |
 
