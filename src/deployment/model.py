@@ -109,3 +109,4 @@ def tuberculosis_page():
                 st.success(f"""##### Predicted Class: **{predicted_class}**""")
             elif predicted_class=="Tuberculosis":
                 st.error(f"""##### Predicted Class: **{predicted_class}**""")
+                
