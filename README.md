@@ -1,6 +1,6 @@
-# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
+# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scan
 
-## The Problem 
+## The Main Problem 
 The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
 
 Our local community faces the burden of inadequate healthcare infrastructure and limited resources, which further amplifies the impact of these challenges. Early detection of COVID-19 and other chest diseases is crucial for effective treatment and preventing the spread of the virus. By deploying an AI-powered solution capable of accurately analyzing chest X-rays and identifying diseases, we can make a significant positive impact on the healthcare landscape of Myanmar, Asian countries, and people around the world.
@@ -9,7 +9,7 @@ The deep learning model we develop will enable healthcare providers, including g
  
 Through the development of a web app or mobile app, we aim to make this solution widely accessible beyond our local community, reaching healthcare providers globally. By democratizing access to advanced diagnostic capabilities, we strive to contribute to the global fight against COVID-19 and other chest diseases, fostering a healthier future for individuals worldwide.
 
-## The Project Goals
+## Project Goals
 Conduct a comprehensive literature review to understand the existing research and methodologies related to chest X-ray analysis, disease detection, and COVID-19 diagnosis using deep learning algorithms. Refine project goals based on the insights gained from the literature review.
 - Collect a diverse and representative dataset of chest X-ray images, including COVID-19 cases and other chest diseases, ensuring the availability of labeled data for training and evaluation purposes.
 - Perform exploratory data analysis (EDA) to gain insights into the dataset, understand data distribution, identify potential biases, and inform data preprocessing strategies.
@@ -31,7 +31,7 @@ Conduct a comprehensive literature review to understand the existing research an
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion.
   
 
-## Project Structure
+## Project Structures
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers/collaborators using this project.
